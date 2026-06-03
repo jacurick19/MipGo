@@ -1,0 +1,25 @@
+# Compiled binaries and test executables
+mipgo
+mipgo_test
+*.test
+*.out
+*.exe
+examples/cutting_stock/cutting_stock
+examples/frequency/frequency
+examples/jssp/jssp
+examples/knapsack/knapsack
+examples/level_packing/level_packing
+examples/plant_location/plant_location
+examples/queens/queens
+examples/rcpsp/rcpsp
+examples/tsp/tsp
+
+# Logs
+*.log
+Highs.log
+
+# OS-specific files
+.DS_Store
+
+# Benchmarks folder
+benchmarks/
