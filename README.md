@@ -2,7 +2,7 @@
 
 The World's Fastest Mixed Integer Program Modeling Library for Go
 
-MipGo is a library for modeling and solving Mixed-Integer Lienar Programs (MIPs). It is inspired by the great work of the Coin-OR foundation's Python MIP. Along these lines, some of the main features are:
+MipGo is a library for modeling and solving Mixed-Integer Linear Programs (MIPs). It is inspired by the great work of the Coin-OR foundation's Python MIP. Along these lines, some of the main features are:
 
 * More modeling components than any other Go modeling library
   - Cut generators and lazy constraints: work with strong formulations with a large number of constraints by generating only the required inequalities during the branch and   cut search;
@@ -17,7 +17,7 @@ MipGo is a library for modeling and solving Mixed-Integer Lienar Programs (MIPs)
 ## Examples
 
 All of the same examples from Python MIP were implemented in MipGo using the same formulations at https://github.com/jacurick19/MipGo/tree/main/examples.
-For details, please see Many Python-MIP examples are documented at https://docs.python-mip.com/en/latest/examples.html.
+For details, please see Many Python MIP examples are documented at https://docs.python-mip.com/en/latest/examples.html.
 
 ## Benchmarks
 
