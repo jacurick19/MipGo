@@ -12,7 +12,7 @@ MipGo is a library for modeling and solving Mixed-Integer Lienar Programs (MIPs)
 * Blazing fast
   - MipGo interfaces directly with the native executable for each supported solver. The pure Go modeling components provide best in class speed.
 * Multi Solver
-  - MipGo supports many mainstream commercial and open source solvers including Gurobi, HiGHS, SCIP, and CBC
+  - MipGo supports many mainstream open source solvers including HiGHS, SCIP, and CBC.
 
 ## Examples
 
@@ -56,4 +56,4 @@ Yes, probably at some point. If it's open source I would be happy to. If it's a 
 
 ### Are any other features planned?
 
-I would like to add support for more modeling constructs, especially those primarily seen in closed source solvers. Things like (bi)conditional statements, piecewise linear functions, etc.
+I would like to add support for more modeling constructs, especially those primarily seen in closed source solvers. Things like (bi)conditional statements, piecewise linear functions, etc. I would like to add support for Gurobi as well.
