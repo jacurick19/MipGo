@@ -48,7 +48,7 @@ The n-queens problem was modeled with several popular modeling libraries. Here a
 
 ### Why Go?
 
-I like Go. like mathematical programming, but the tooling for doing it in Go wasn't great. Python, Java, and C++ are pretty standard to use for this type of work. But now, if you ever need to optimize something when you're working with my favorite language in the world, this project exists.
+I like Go. I like mathematical programming, but the tooling for doing it in Go wasn't great. Python, Java, and C++ are pretty standard to use for this type of work. But now, if you ever need to optimize something when you're working with my favorite language in the world, this project exists.
 
 ### Will you add support for $MY_FAVORITE_SOLVER???
 
